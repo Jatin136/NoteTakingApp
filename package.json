@@ -1,5 +1,5 @@
 {
-  "name": "testing-node-with-mocha",
+  "name": "notes-app",
   "version": "1.0.0",
   "description": "Never miss a thing in Life. Take notes quickly. Organize and keep track of all your notes.",
   "main": "server.js",
